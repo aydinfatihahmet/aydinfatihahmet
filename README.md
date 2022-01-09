@@ -3,7 +3,7 @@
 
 I'm Fatih. Electrical and Electronics Engineer.
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@aydinfatihahmet) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=black&link=link)](https://medium.com/@aydinfatihahmet) 
 
 Here are some ideas to get you started:
 
