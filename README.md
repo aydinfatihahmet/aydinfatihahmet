@@ -1,7 +1,9 @@
 ### Hi there 👋
-Test
 
-**aydinfatihahmet/aydinfatihahmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Fatih. Electrical and Electronics Engineer.
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@aydinfatihahmet)](link) 
 
 Here are some ideas to get you started:
 
